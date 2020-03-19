@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (c) 2019 Havoc-OS
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Gestures: Touchscreen gestures -->
+    <string name="touchscreen_gesture_settings_title">Χειρονομίες οθόνης αφής</string>
+    <string name="touchscreen_gesture_settings_summary">Εκτελέστε διάφορες χειρονομίες στην οθόνη αφής για γρήγορες ενέργειες</string>
+    <string name="touchscreen_gestures_haptic_feedback_title">Απτική ανάδραση</string>
+    <string name="touchscreen_gestures_haptic_feedback_summary">Δόνηση όταν εντοπιστεί μία χειρονομία στην οθόνη αφής</string>
+    <string name="touchscreen_gesture_two_finger_down_swipe_title">Σύρετε προς τα κάτω με δύο δάχτυλα</string>
+    <string name="touchscreen_gesture_one_finger_up_swipe_title">Σύρετε προς τα επάνω με ένα δάχτυλο</string>
+    <string name="touchscreen_gesture_one_finger_up_swipe_home_title">Σύρετε προς τα επάνω από το πλήκτρο αρχικής οθόνης</string>
+    <string name="touchscreen_gesture_one_finger_down_swipe_title">Σύρετε προς τα κάτω με ένα δάχτυλο</string>
+    <string name="touchscreen_gesture_one_finger_left_swipe_title">Σύρετε προς τα αριστερά με ένα δάχτυλο</string>
+    <string name="touchscreen_gesture_one_finger_right_swipe_title">Σύρετε προς τα δεξιά με ένα δάχτυλο</string>
+    <string name="touchscreen_gesture_up_arrow_title">Σχεδιάστε ένα «Λ»</string>
+    <string name="touchscreen_gesture_down_arrow_title">Σχεδιάστε ένα «V»</string>
+    <string name="touchscreen_gesture_left_arrow_title">Σχεδιάστε ένα «&lt;»</string>
+    <string name="touchscreen_gesture_right_arrow_title">Σχεδιάστε ένα «&gt;»</string>
+    <string name="touchscreen_gesture_letter_c_title">Σχεδιάστε το γράμμα «C»</string>
+    <string name="touchscreen_gesture_letter_e_title">Σχεδιάστε το γράμμα «e»</string>
+    <string name="touchscreen_gesture_letter_o_title">Σχεδιάστε το γράμμα \"O\"</string>
+    <string name="touchscreen_gesture_letter_m_title">Σχεδιάστε το γράμμα «Μ»</string>
+    <string name="touchscreen_gesture_letter_s_title">Σχεδιάστε το γράμμα «S»</string>
+    <string name="touchscreen_gesture_letter_v_title">Σχεδιάστε το γράμμα «V»</string>
+    <string name="touchscreen_gesture_letter_w_title">Σχεδιάστε το γράμμα «W»</string>
+    <string name="touchscreen_gesture_letter_z_title">Σχεδιάστε το γράμμα «Z»</string>
+    <string name="touchscreen_gesture_single_tap_title">Μονό πάτημα</string>
+    <string name="touchscreen_gesture_double_tap_title">Διπλό πάτημα</string>
+    <!-- Gesture: Stylus gestures -->
+    <string name="touchscreen_gesture_swipe_up_stylus_title">Σύρετε προς τα επάνω με τη γραφίδα</string>
+    <string name="touchscreen_gesture_swipe_down_stylus_title">Σύρετε προς τα κάτω με τη γραφίδα</string>
+    <string name="touchscreen_gesture_swipe_left_stylus_title">Σύρετε προς τα αριστερά με τη γραφίδα</string>
+    <string name="touchscreen_gesture_swipe_right_stylus_title">Σύρετε προς τα δεξιά με τη γραφίδα</string>
+    <string name="touchscreen_gesture_long_press_stylus_title">Παρατεταμένη πίεση με τη γραφίδα</string>
+    <string name="touchscreen_gesture_action_dialog_title">Ενέργεια χειρονομίας</string>
+    <string name="touchscreen_gesture_action_do_nothing">Καμία ενέργεια</string>
+    <string name="touchscreen_gesture_action_flashlight">Εναλλαγή φακού</string>
+    <string name="touchscreen_gesture_action_camera">Άνοιγμα της φωτογραφικής μηχανής</string>
+    <string name="touchscreen_gesture_action_browser">Άνοιγμα του προγράμματος περιήγησης</string>
+    <string name="touchscreen_gesture_action_dialer">Άνοιγμα της εφαρμογής κλήσεων</string>
+    <string name="touchscreen_gesture_action_email">Προβολή των email σας</string>
+    <string name="touchscreen_gesture_action_messages">Προβολή των μηνυμάτων σας</string>
+    <string name="touchscreen_gesture_action_play_pause_music">Αναπαραγωγή/παύση μουσικής</string>
+    <string name="touchscreen_gesture_action_previous_track">Αναπαραγωγή του προηγούμενου κομματιού μουσικής</string>
+    <string name="touchscreen_gesture_action_next_track">Αναπαραγωγή του επόμενου κομματιού μουσικής</string>
+    <string name="touchscreen_gesture_action_volume_down">Μείωση της έντασης των πολυμέσων</string>
+    <string name="touchscreen_gesture_action_volume_up">Αύξηση της έντασης των πολυμέσων</string>
+    <string name="touchscreen_gesture_action_ambient_display">Εμφάνιση της οθόνης περιβάλλοντος</string>
+    <string name="touchscreen_gesture_action_wake_device">Αφύπνιση της συσκευής</string>
+</resources>

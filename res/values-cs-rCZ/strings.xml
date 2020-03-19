@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (c) 2019 Havoc-OS
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Gestures: Touchscreen gestures -->
+    <string name="touchscreen_gesture_settings_title">Gesta na obrazovce</string>
+    <string name="touchscreen_gesture_settings_summary">Provádět na obrazovce různá gesta pro rychlé akce</string>
+    <string name="touchscreen_gestures_haptic_feedback_title">Haptická odezva</string>
+    <string name="touchscreen_gestures_haptic_feedback_summary">Vibrovat při detekci gesta na obrazovce</string>
+    <string name="touchscreen_gesture_two_finger_down_swipe_title">Přejetí dolů 2 prsty</string>
+    <string name="touchscreen_gesture_one_finger_up_swipe_title">Přejetí dolů 1 prstem</string>
+    <string name="touchscreen_gesture_one_finger_up_swipe_home_title">Přejeďte prstem nahoru od tlačítka Domů</string>
+    <string name="touchscreen_gesture_one_finger_down_swipe_title">Přejetí dolů 1 prstem</string>
+    <string name="touchscreen_gesture_one_finger_left_swipe_title">Přejetí vlevo 1 prstem</string>
+    <string name="touchscreen_gesture_one_finger_right_swipe_title">Přejetí vpravo 1 prstem</string>
+    <string name="touchscreen_gesture_up_arrow_title">Nakreslete „Λ“</string>
+    <string name="touchscreen_gesture_down_arrow_title">Nakreslete „V“</string>
+    <string name="touchscreen_gesture_left_arrow_title">Nakreslete „&lt;“</string>
+    <string name="touchscreen_gesture_right_arrow_title">Nakreslete „&gt;“</string>
+    <string name="touchscreen_gesture_letter_c_title">Nakreslete písmeno „C“</string>
+    <string name="touchscreen_gesture_letter_e_title">Nakreslete písmeno „e“</string>
+    <string name="touchscreen_gesture_letter_o_title">Nakreslete písmeno „O“</string>
+    <string name="touchscreen_gesture_letter_m_title">Nakreslete písmeno „M“</string>
+    <string name="touchscreen_gesture_letter_s_title">Nakreslete písmeno „S“</string>
+    <string name="touchscreen_gesture_letter_v_title">Nakreslete písmeno „V“</string>
+    <string name="touchscreen_gesture_letter_w_title">Nakreslete písmeno „W“</string>
+    <string name="touchscreen_gesture_letter_z_title">Nakreslete písmeno „Z“</string>
+    <string name="touchscreen_gesture_single_tap_title">Jediným klepnutím</string>
+    <string name="touchscreen_gesture_double_tap_title">Dvojí poklepání</string>
+    <!-- Gesture: Stylus gestures -->
+    <string name="touchscreen_gesture_swipe_up_stylus_title">Přejeďte nahoru pomocí stylusu</string>
+    <string name="touchscreen_gesture_swipe_down_stylus_title">Přejeďte dolů pomocí stylusu</string>
+    <string name="touchscreen_gesture_swipe_left_stylus_title">Přejeďte vlevo pomocí stylusu</string>
+    <string name="touchscreen_gesture_swipe_right_stylus_title">Přejeďte vpravo pomocí stylusu</string>
+    <string name="touchscreen_gesture_long_press_stylus_title">Dlouhým stisknutím stylusu</string>
+    <string name="touchscreen_gesture_action_dialog_title">Akce gest</string>
+    <string name="touchscreen_gesture_action_do_nothing">Nedělat nic</string>
+    <string name="touchscreen_gesture_action_flashlight">Zapnout/vypnout svítilnu</string>
+    <string name="touchscreen_gesture_action_camera">Spustit fotoaparát</string>
+    <string name="touchscreen_gesture_action_browser">Spustit prohlížeč internetu</string>
+    <string name="touchscreen_gesture_action_dialer">Spustit telefon</string>
+    <string name="touchscreen_gesture_action_email">Zobrazit e-maily</string>
+    <string name="touchscreen_gesture_action_messages">Zobrazit vaše zprávy</string>
+    <string name="touchscreen_gesture_action_play_pause_music">Hrát/pozastavit hudbu</string>
+    <string name="touchscreen_gesture_action_previous_track">Přehrát předchozí skladbu</string>
+    <string name="touchscreen_gesture_action_next_track">Přehrát další skladbu</string>
+    <string name="touchscreen_gesture_action_volume_down">Snížení hlasitosti médií</string>
+    <string name="touchscreen_gesture_action_volume_up">Zvýšení hlasitosti médií</string>
+    <string name="touchscreen_gesture_action_ambient_display">Zobrazit Ambientní displej</string>
+    <string name="touchscreen_gesture_action_wake_device">Probudit zařízení</string>
+</resources>

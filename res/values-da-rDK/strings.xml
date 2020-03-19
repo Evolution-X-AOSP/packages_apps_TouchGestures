@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (c) 2019 Havoc-OS
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Gestures: Touchscreen gestures -->
+    <string name="touchscreen_gesture_settings_title">Bevægelser til touchskærm</string>
+    <string name="touchscreen_gesture_settings_summary">Udfør forskellige bevægelser på touchskærmen for at udføre hurtige handlinger</string>
+    <string name="touchscreen_gestures_haptic_feedback_title">Berøringsvibration</string>
+    <string name="touchscreen_gestures_haptic_feedback_summary">Vibrér, når en bevægelse på skærmen registreres</string>
+    <string name="touchscreen_gesture_two_finger_down_swipe_title">Stryg nedad med to fingre</string>
+    <string name="touchscreen_gesture_one_finger_up_swipe_title">Stryg opad med én finger</string>
+    <string name="touchscreen_gesture_one_finger_up_swipe_home_title">Stryg opad fra hjem-knappen</string>
+    <string name="touchscreen_gesture_one_finger_down_swipe_title">Stryg nedad med én finger</string>
+    <string name="touchscreen_gesture_one_finger_left_swipe_title">Stryg mod venstre med én finger</string>
+    <string name="touchscreen_gesture_one_finger_right_swipe_title">Stryg mod højre med én finger</string>
+    <string name="touchscreen_gesture_up_arrow_title">Tegn et \"Λ\"</string>
+    <string name="touchscreen_gesture_down_arrow_title">Tegn et \"V\"</string>
+    <string name="touchscreen_gesture_left_arrow_title">Tegn et \"&lt;\"</string>
+    <string name="touchscreen_gesture_right_arrow_title">Tegn et \"&gt;\"</string>
+    <string name="touchscreen_gesture_letter_c_title">Tegn bogstavet \"C\"</string>
+    <string name="touchscreen_gesture_letter_e_title">Tegn bogstavet \"e\"</string>
+    <string name="touchscreen_gesture_letter_o_title">Tegn bogstavet \"O\"</string>
+    <string name="touchscreen_gesture_letter_m_title">Tegn bogstavet \"M\"</string>
+    <string name="touchscreen_gesture_letter_s_title">Tegn bogstavet \"S\"</string>
+    <string name="touchscreen_gesture_letter_v_title">Tegn bogstavet \"V\"</string>
+    <string name="touchscreen_gesture_letter_w_title">Tegn bogstavet \"W\"</string>
+    <string name="touchscreen_gesture_letter_z_title">Tegn bogstavet \"Z\"</string>
+    <string name="touchscreen_gesture_single_tap_title">Enkelt tryk</string>
+    <string name="touchscreen_gesture_double_tap_title">Dobbelttryk</string>
+    <!-- Gesture: Stylus gestures -->
+    <string name="touchscreen_gesture_swipe_up_stylus_title">Stryg opad med pennen</string>
+    <string name="touchscreen_gesture_swipe_down_stylus_title">Stryg nedad med pennen</string>
+    <string name="touchscreen_gesture_swipe_left_stylus_title">Stryg mod venstre med pennen</string>
+    <string name="touchscreen_gesture_swipe_right_stylus_title">Stryg mod højre med pennen</string>
+    <string name="touchscreen_gesture_long_press_stylus_title">Langt tryk med pennen</string>
+    <string name="touchscreen_gesture_action_dialog_title">Bevægelseshandling</string>
+    <string name="touchscreen_gesture_action_do_nothing">Gør ingenting</string>
+    <string name="touchscreen_gesture_action_flashlight">Tænd / sluk lommelygte</string>
+    <string name="touchscreen_gesture_action_camera">Åbn kameraet</string>
+    <string name="touchscreen_gesture_action_browser">Åbn browseren</string>
+    <string name="touchscreen_gesture_action_dialer">Åbn opkalds-appen</string>
+    <string name="touchscreen_gesture_action_email">Se dine e-mails</string>
+    <string name="touchscreen_gesture_action_messages">Se dine beskeder</string>
+    <string name="touchscreen_gesture_action_play_pause_music">Afspil/Pause musik</string>
+    <string name="touchscreen_gesture_action_previous_track">Navigér til forrige musiknummer</string>
+    <string name="touchscreen_gesture_action_next_track">Afspil det næste musiknummer</string>
+    <string name="touchscreen_gesture_action_volume_down">Sænk medielydstyrke</string>
+    <string name="touchscreen_gesture_action_volume_up">Hæv medielydstyrke</string>
+    <string name="touchscreen_gesture_action_ambient_display">Hvis ambient display</string>
+    <string name="touchscreen_gesture_action_wake_device">Væk enhed</string>
+</resources>

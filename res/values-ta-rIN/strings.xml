@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (c) 2019 Havoc-OS
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Gestures: Touchscreen gestures -->
+    <string name="touchscreen_gesture_settings_title">தொடுதிரை சைகைகள்</string>
+    <string name="touchscreen_gesture_settings_summary">விரைவான செயல்களுக்காக பல்வேறு தொடுதிரை சைகைகள் செய்யவும்</string>
+    <string name="touchscreen_gestures_haptic_feedback_title">தீண்டும் பின்னூட்டம்</string>
+    <string name="touchscreen_gestures_haptic_feedback_summary">தொடுதிரை சைகை கண்டறியப்பட்டால் அதிர்வு</string>
+    <string name="touchscreen_gesture_two_finger_down_swipe_title">இரண்டு விரல்களால் தேய்க்கவும்</string>
+    <string name="touchscreen_gesture_one_finger_up_swipe_title">ஒரு விரல் மூலம் தேய்க்கவும்</string>
+    <string name="touchscreen_gesture_one_finger_up_swipe_home_title">முகப்பு பொத்தானிலிருந்து இருந்து மேல்நோக்கி தேய்க்கவும்</string>
+    <string name="touchscreen_gesture_one_finger_down_swipe_title">ஒரு விரல் கொண்டு கீழே ஸ்வைப் செய்யவும்</string>
+    <string name="touchscreen_gesture_one_finger_left_swipe_title">ஒரு விரலுடன் இடதுபுறமாக ஸ்வைப் செய்யவும்</string>
+    <string name="touchscreen_gesture_one_finger_right_swipe_title">ஒரு விரலை வலதுபுறமாக ஸ்வைப் செய்யவும்</string>
+    <string name="touchscreen_gesture_up_arrow_title">\"Λ\" வரைய</string>
+    <string name="touchscreen_gesture_down_arrow_title">\"V\" வரைய</string>
+    <string name="touchscreen_gesture_left_arrow_title">ஒரு \"&lt;\" வரை</string>
+    <string name="touchscreen_gesture_right_arrow_title">ஒரு \"&gt;\" வரை</string>
+    <string name="touchscreen_gesture_letter_c_title">எழுத்து \"C\" வரைக</string>
+    <string name="touchscreen_gesture_letter_e_title">எழுத்து \"e\" வரைக</string>
+    <string name="touchscreen_gesture_letter_o_title">எழுத்து \"O\" வரைக</string>
+    <string name="touchscreen_gesture_letter_m_title">எழுத்து \"M\" வரைக</string>
+    <string name="touchscreen_gesture_letter_s_title">எழுத்து \"S\" வரைக</string>
+    <string name="touchscreen_gesture_letter_v_title">எழுத்து \"V\" வரைக</string>
+    <string name="touchscreen_gesture_letter_w_title">எழுத்து \"W\" வரைக</string>
+    <string name="touchscreen_gesture_letter_z_title">எழுத்து \"Z\" வரைக</string>
+    <string name="touchscreen_gesture_single_tap_title">ஒறுமுறை தட்டு</string>
+    <string name="touchscreen_gesture_double_tap_title">இருமுறை தட்டு</string>
+    <!-- Gesture: Stylus gestures -->
+    <string name="touchscreen_gesture_swipe_up_stylus_title">ஸ்டைலஸ் கொண்டு கீழ்நோக்கி ஸ்வைப் தேய்க்கவும்</string>
+    <string name="touchscreen_gesture_swipe_down_stylus_title">ஸ்டைலஸ் கொண்டு கீழ்நோக்கி ஸ்வைப் தேய்க்கவும்</string>
+    <string name="touchscreen_gesture_swipe_left_stylus_title">ஸ்டைலஸுடன் இடதுபுறமாக ஸ்வைப் செய்யவும்</string>
+    <string name="touchscreen_gesture_swipe_right_stylus_title">ஸ்டைலஸுடன் வலதுபுறமாக ஸ்வைப் செய்யவும்</string>
+    <string name="touchscreen_gesture_long_press_stylus_title">ஸ்டைலஸுடன் நீண்ட நேரம் அழுத்தவும்</string>
+    <string name="touchscreen_gesture_action_dialog_title">சைகை நடவடிக்கை</string>
+    <string name="touchscreen_gesture_action_do_nothing">எதுவும் செய்யாதே</string>
+    <string name="touchscreen_gesture_action_flashlight">விளக்கு நிலை மாற்று</string>
+    <string name="touchscreen_gesture_action_camera">கேமரா திறக்கவும்</string>
+    <string name="touchscreen_gesture_action_browser">உலாவியைத் திறக்கவும்</string>
+    <string name="touchscreen_gesture_action_dialer">டயலர் திறக்கவும்</string>
+    <string name="touchscreen_gesture_action_email">உங்கள் மின்னஞ்சல்களைக் காணலாம்</string>
+    <string name="touchscreen_gesture_action_messages">உங்கள் செய்திகளை பார்க்க</string>
+    <string name="touchscreen_gesture_action_play_pause_music">இசையை இயக்கு / இடைநிறுத்து</string>
+    <string name="touchscreen_gesture_action_previous_track">முந்தைய இசை தடம் செல்லவும்</string>
+    <string name="touchscreen_gesture_action_next_track">அடுத்த இசை டிராக்குக்கு செல்</string>
+    <string name="touchscreen_gesture_action_volume_down">குறைந்த ஊடக ஒலி</string>
+    <string name="touchscreen_gesture_action_volume_up">ஒலி அதிகரிக்கவும்</string>
+    <string name="touchscreen_gesture_action_ambient_display">சூழல்சார் திரை</string>
+    <string name="touchscreen_gesture_action_wake_device">சாதனம் எழுப்ப</string>
+</resources>

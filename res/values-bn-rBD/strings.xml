@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (c) 2019 Havoc-OS
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Gestures: Touchscreen gestures -->
+    <string name="touchscreen_gesture_settings_title">টাচস্ক্রীনের জেস্চার/সঙ্কেত সমূহ</string>
+    <string name="touchscreen_gesture_settings_summary">দ্রুত কাজ করার জন্য টাচস্ক্রীনের নানা রকম জেস্চার ব্যবহার করুন</string>
+    <string name="touchscreen_gestures_haptic_feedback_title">হ্যাপটিক ফিডব্যাক</string>
+    <string name="touchscreen_gestures_haptic_feedback_summary">টাচস্ক্রীনে জেস্চার শনাক্ত হলে কম্পিত হবে</string>
+    <string name="touchscreen_gesture_two_finger_down_swipe_title">দুই আঙুল দিয়ে নিচে সোয়াইপ করুন</string>
+    <string name="touchscreen_gesture_one_finger_up_swipe_title">এক আঙুল দিয়ে উপরে সোয়াইপ করুন</string>
+    <string name="touchscreen_gesture_one_finger_up_swipe_home_title">হোম বোতামটি থেকে উপরে সোয়াইপ করুন</string>
+    <string name="touchscreen_gesture_one_finger_down_swipe_title">এক আঙুল দিয়ে নিচে সোয়াইপ করুন</string>
+    <string name="touchscreen_gesture_one_finger_left_swipe_title">এক আঙুল দিয়ে বামে সোয়াইপ করুন</string>
+    <string name="touchscreen_gesture_one_finger_right_swipe_title">এক আঙুল দিয়ে ডানে সোয়াইপ করুন</string>
+    <string name="touchscreen_gesture_up_arrow_title">একটি \"Λ\" আঁকুন</string>
+    <string name="touchscreen_gesture_down_arrow_title">একটি \"V\" আঁকুন</string>
+    <string name="touchscreen_gesture_left_arrow_title">একটি \"&lt;\" আঁকুন</string>
+    <string name="touchscreen_gesture_right_arrow_title">একটি \"&gt;\" আঁকুন</string>
+    <string name="touchscreen_gesture_letter_c_title">\"C\" লেটারটি আঁকুন</string>
+    <string name="touchscreen_gesture_letter_e_title">\"e\" লেটারটি আঁকুন</string>
+    <string name="touchscreen_gesture_letter_o_title">\"O\" লেটারটি আঁকুন</string>
+    <string name="touchscreen_gesture_letter_m_title">\"M\" লেটারটি আঁকুন</string>
+    <string name="touchscreen_gesture_letter_s_title">\"S\" লেটারটি আঁকুন</string>
+    <string name="touchscreen_gesture_letter_v_title">\"V\" লেটারটি আঁকুন</string>
+    <string name="touchscreen_gesture_letter_w_title">\"W\" লেটারটি আঁকুন</string>
+    <string name="touchscreen_gesture_letter_z_title">\"Z\" লেটারটি আঁকুন</string>
+    <string name="touchscreen_gesture_single_tap_title">একটি ট্যাপ করুন</string>
+    <string name="touchscreen_gesture_double_tap_title">দুবার ট্যাপ করুন</string>
+    <!-- Gesture: Stylus gestures -->
+    <string name="touchscreen_gesture_swipe_up_stylus_title">স্টাইলাস দিয়ে সোয়াইপ করুন</string>
+    <string name="touchscreen_gesture_swipe_down_stylus_title">স্টাইলাস দিয়ে নিচে সোয়াইপ করুন</string>
+    <string name="touchscreen_gesture_swipe_left_stylus_title">স্টাইলাস দিয়ে বামে সোয়াইপ করুন</string>
+    <string name="touchscreen_gesture_swipe_right_stylus_title">স্টাইলাস দিয়ে ডানে সোয়াইপ করুন</string>
+    <string name="touchscreen_gesture_long_press_stylus_title">স্টাইলাস দিয়ে দীর্ঘ চাপ দিন</string>
+    <string name="touchscreen_gesture_action_dialog_title">জেস্চার কার্যকলাপ</string>
+    <string name="touchscreen_gesture_action_do_nothing">কিছু করবেন না</string>
+    <string name="touchscreen_gesture_action_flashlight">ফ্ল্যাশলাইট টোগল করুন</string>
+    <string name="touchscreen_gesture_action_camera">ক্যামেরা খুলুন</string>
+    <string name="touchscreen_gesture_action_browser">ব্রাউজার খুলুন</string>
+    <string name="touchscreen_gesture_action_dialer">ডায়ালার খুলুন</string>
+    <string name="touchscreen_gesture_action_email">আপনার ইমেল দেখুন</string>
+    <string name="touchscreen_gesture_action_messages">আপনার বার্তা দেখুন</string>
+    <string name="touchscreen_gesture_action_play_pause_music">গান চালান/বিরতি দিন</string>
+    <string name="touchscreen_gesture_action_previous_track">পূর্ববর্তী সঙ্গীত ট্র্যাকটি প্লে করুন</string>
+    <string name="touchscreen_gesture_action_next_track">পরবর্তী সঙ্গীত ট্র্যাকটি প্লে করুন</string>
+    <string name="touchscreen_gesture_action_volume_down">মিডিয়া ভলিউম কমান</string>
+    <string name="touchscreen_gesture_action_volume_up">মিডিয়া ভলিউম বাড়ান</string>
+    <string name="touchscreen_gesture_action_ambient_display">অ্যামবিয়েন্ট ডিসপ্লে দেখান</string>
+    <string name="touchscreen_gesture_action_wake_device">ডিভাইস জাগ্রত করুন</string>
+</resources>

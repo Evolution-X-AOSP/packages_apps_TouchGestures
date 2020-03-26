@@ -16,7 +16,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Gestures: Touchscreen gestures -->
-    <string name="touchscreen_gesture_settings_title">टचस्क्रीन जेस्चर</string>
+    <string name="touchscreen_gesture_settings_title">स्पर्षिय इशारे</string>
     <string name="touchscreen_gesture_settings_summary">कुछ कार्य जल्दी करने के लिए विभिन्न टच स्क्रीन जेस्चर इस्तेमाल करें</string>
     <string name="touchscreen_gestures_haptic_feedback_title">स्पर्श प्रतिक्रिया</string>
     <string name="touchscreen_gestures_haptic_feedback_summary">टच स्क्रीन जेस्चर पता चलने पर कंपन करे</string>

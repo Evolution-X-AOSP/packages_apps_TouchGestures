@@ -41,20 +41,20 @@
     <string name="touchscreen_gesture_single_tap_title">O atingere</string>
     <string name="touchscreen_gesture_double_tap_title">Atingere dublă</string>
     <!-- Gesture: Stylus gestures -->
-    <string name="touchscreen_gesture_swipe_up_stylus_title">Glisare în sus cu stylus-ul</string>
+    <string name="touchscreen_gesture_swipe_up_stylus_title">Glisați în sus cu stylus-ul</string>
     <string name="touchscreen_gesture_swipe_down_stylus_title">Glisare în jos cu stylus-ul</string>
-    <string name="touchscreen_gesture_swipe_left_stylus_title">Glisare în stânga cu stylus-ul</string>
-    <string name="touchscreen_gesture_swipe_right_stylus_title">Glisare în dreapta cu stylus-ul</string>
+    <string name="touchscreen_gesture_swipe_left_stylus_title">Glisați în stânga cu stylus-ul</string>
+    <string name="touchscreen_gesture_swipe_right_stylus_title">Glisați în dreapta cu stylus-ul</string>
     <string name="touchscreen_gesture_long_press_stylus_title">Apăsare lungă cu stylus-ul</string>
     <string name="touchscreen_gesture_action_dialog_title">Acțiune gest</string>
     <string name="touchscreen_gesture_action_do_nothing">Nicio acțiune</string>
     <string name="touchscreen_gesture_action_flashlight">Comutare lanternă</string>
     <string name="touchscreen_gesture_action_camera">Deschide camera</string>
     <string name="touchscreen_gesture_action_browser">Deschide browser-ul</string>
-    <string name="touchscreen_gesture_action_dialer">Deschide telefonul</string>
+    <string name="touchscreen_gesture_action_dialer">Deschide agenda</string>
     <string name="touchscreen_gesture_action_email">Vizualizare email-uri</string>
     <string name="touchscreen_gesture_action_messages">Vizualizare mesaje</string>
-    <string name="touchscreen_gesture_action_play_pause_music">Redare/întrerupere muzică</string>
+    <string name="touchscreen_gesture_action_play_pause_music">Redare/Pauză muzică</string>
     <string name="touchscreen_gesture_action_previous_track">Redă melodia anterioară</string>
     <string name="touchscreen_gesture_action_next_track">Redă următoarea melodie</string>
     <string name="touchscreen_gesture_action_volume_down">Micșorare volum media</string>

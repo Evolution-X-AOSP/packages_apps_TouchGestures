@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (c) 2019 Havoc-OS
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Gestures: Touchscreen gestures -->
+    <string name="touchscreen_gesture_settings_title">Cử chỉ màn hình cảm ứng</string>
+    <string name="touchscreen_gesture_settings_summary">Thực hiện các cử chỉ màn hình cảm ứng khác nhau cho các thao tác nhanh</string>
+    <string name="touchscreen_gestures_haptic_feedback_title">Phản hồi rung</string>
+    <string name="touchscreen_gestures_haptic_feedback_summary">Rung khi một cử chỉ màn hình cảm ứng được phát hiện</string>
+    <string name="touchscreen_gesture_two_finger_down_swipe_title">Vuốt xuống bằng hai ngón tay</string>
+    <string name="touchscreen_gesture_one_finger_up_swipe_title">Vuốt lên bằng một ngón tay</string>
+    <string name="touchscreen_gesture_one_finger_up_swipe_home_title">Vuốt lên từ nút Home</string>
+    <string name="touchscreen_gesture_one_finger_down_swipe_title">Vuốt xuống bằng một ngón tay</string>
+    <string name="touchscreen_gesture_one_finger_left_swipe_title">Vuốt sang trái bằng một ngón tay</string>
+    <string name="touchscreen_gesture_one_finger_right_swipe_title">Vuốt sang phải bằng một ngón tay</string>
+    <string name="touchscreen_gesture_up_arrow_title">Vẽ kí tự \"Λ\"</string>
+    <string name="touchscreen_gesture_down_arrow_title">Vẽ kí tự \"V\"</string>
+    <string name="touchscreen_gesture_left_arrow_title">Vẽ một \"&lt;\"</string>
+    <string name="touchscreen_gesture_right_arrow_title">Vẽ một \"&gt;\"</string>
+    <string name="touchscreen_gesture_letter_c_title">Vẽ chữ cái \"C\"</string>
+    <string name="touchscreen_gesture_letter_e_title">Vẽ chữ cái \"e\"</string>
+    <string name="touchscreen_gesture_letter_o_title">Vẽ chữ cái \"O\"</string>
+    <string name="touchscreen_gesture_letter_m_title">Vẽ chữ cái \"M\"</string>
+    <string name="touchscreen_gesture_letter_s_title">Vẽ chữ cái \"S\"</string>
+    <string name="touchscreen_gesture_letter_v_title">Vẽ chữ cái \"V\"</string>
+    <string name="touchscreen_gesture_letter_w_title">Vẽ chữ cái \"W\"</string>
+    <string name="touchscreen_gesture_letter_z_title">Vẽ chữ cái \"Z\"</string>
+    <string name="touchscreen_gesture_single_tap_title">Chạm 1 lần</string>
+    <string name="touchscreen_gesture_double_tap_title">Chạm 2 lần</string>
+    <!-- Gesture: Stylus gestures -->
+    <string name="touchscreen_gesture_swipe_up_stylus_title">Trượt lên với bút stylus</string>
+    <string name="touchscreen_gesture_swipe_down_stylus_title">Trượt xuống với bút stylus</string>
+    <string name="touchscreen_gesture_swipe_left_stylus_title">Trượt bên trái với bút stylus</string>
+    <string name="touchscreen_gesture_swipe_right_stylus_title">Trượt bên phải với bút stylus</string>
+    <string name="touchscreen_gesture_long_press_stylus_title">Nhấn giữ với bút stylus</string>
+    <string name="touchscreen_gesture_action_dialog_title">Hành động cử chỉ</string>
+    <string name="touchscreen_gesture_action_do_nothing">Không làm gì</string>
+    <string name="touchscreen_gesture_action_flashlight">Bật/tắt đèn pin</string>
+    <string name="touchscreen_gesture_action_camera">Mở máy ảnh</string>
+    <string name="touchscreen_gesture_action_browser">Mở trình duyệt</string>
+    <string name="touchscreen_gesture_action_dialer">Mở trình quay số</string>
+    <string name="touchscreen_gesture_action_email">Xem email của bạn</string>
+    <string name="touchscreen_gesture_action_messages">Xem tin nhắn của bạn</string>
+    <string name="touchscreen_gesture_action_play_pause_music">Phát/tạm dừng trình nghe nhạc</string>
+    <string name="touchscreen_gesture_action_previous_track">Phát bản nhạc trước đó</string>
+    <string name="touchscreen_gesture_action_next_track">Phát bản nhạc tiếp theo</string>
+    <string name="touchscreen_gesture_action_volume_down">Giảm âm lượng phương tiện</string>
+    <string name="touchscreen_gesture_action_volume_up">Tăng âm lượng phương tiện</string>
+    <string name="touchscreen_gesture_action_ambient_display">Hiển thị trên màn hình xem nhanh</string>
+    <string name="touchscreen_gesture_action_wake_device">Đánh thức thiết bị</string>
+</resources>

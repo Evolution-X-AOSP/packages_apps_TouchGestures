@@ -21,12 +21,15 @@ import android.app.ActionBar;
 import android.app.Fragment;
 import android.content.Context;
 import android.content.Intent;
+import android.content.res.Resources;
 import android.content.SharedPreferences;
 import android.graphics.Color;
 import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
 import android.os.UserHandle;
 import android.view.MenuItem;
+import android.view.Window;
+import android.view.WindowManager;
 
 import android.preference.PreferenceActivity;
 import androidx.preference.ListPreference;
@@ -81,6 +84,14 @@ public class TouchscreenGestureSettings extends PreferenceActivity
 
         @Override
         public void onCreatePreferences(Bundle savedInstanceState, String rootKey) {
+
+            Resources res = getResources();
+            Window win = getActivity().getWindow();
+
+            win.addFlags(WindowManager.LayoutParams.FLAG_DRAWS_SYSTEM_BAR_BACKGROUNDS);
+            win.clearFlags(WindowManager.LayoutParams.FLAG_TRANSLUCENT_NAVIGATION);
+            win.setNavigationBarColor(res.getColor(R.color.primary_color));
+            win.setNavigationBarDividerColor(res.getColor(R.color.primary_color));
 
             setPreferencesFromResource(R.xml.touchscreen_gesture_settings, rootKey);
 

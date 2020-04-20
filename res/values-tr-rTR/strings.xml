@@ -51,13 +51,13 @@
     <string name="touchscreen_gesture_action_flashlight">El fenerini aç/kapat</string>
     <string name="touchscreen_gesture_action_camera">Kamerayı aç</string>
     <string name="touchscreen_gesture_action_browser">Tarayıcıyı aç</string>
-    <string name="touchscreen_gesture_action_dialer">Çağrı çeviriciyi aç</string>
-    <string name="touchscreen_gesture_action_email">Maillerinizi görüntüleyin</string>
+    <string name="touchscreen_gesture_action_dialer">Çeviriciyi aç</string>
+    <string name="touchscreen_gesture_action_email">E-postalarınızı görüntüleyin</string>
     <string name="touchscreen_gesture_action_messages">Mesajlarınızı görüntüleyin</string>
-    <string name="touchscreen_gesture_action_play_pause_music">Müziği Çal/Duraklat</string>
+    <string name="touchscreen_gesture_action_play_pause_music">Müziği oynat/duraklat</string>
     <string name="touchscreen_gesture_action_previous_track">Önceki şarkıyı oynat</string>
     <string name="touchscreen_gesture_action_next_track">Sonraki şarkıyı oynat</string>
-    <string name="touchscreen_gesture_action_volume_down">Medya sesini düşür</string>
+    <string name="touchscreen_gesture_action_volume_down">Medya sesini azalt</string>
     <string name="touchscreen_gesture_action_volume_up">Medya sesini yükselt</string>
     <string name="touchscreen_gesture_action_ambient_display">Ortam ekranını göster</string>
     <string name="touchscreen_gesture_action_wake_device">Cihazı uyandır</string>

@@ -21,4 +21,7 @@
          touchscreen gestures advertised by the device's LineageHW impl. -->
     <integer-array name="config_defaultTouchscreenGestureActions" />
 
+    <!-- Whether to check proximity before handling the gesture -->
+    <bool name="config_enableProximityCheck">true</bool>
+
 </resources>

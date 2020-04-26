@@ -79,6 +79,8 @@ public class KeyHandler implements DeviceKeyHandler {
     private String mRearCameraId;
     private boolean mTorchEnabled;
 
+    private boolean mProximityCheckEnabled;
+
     private final BroadcastReceiver mUpdateReceiver = new BroadcastReceiver() {
         @Override
         public void onReceive(Context context, Intent intent) {
@@ -111,7 +113,10 @@ public class KeyHandler implements DeviceKeyHandler {
 
         mVibrator = context.getSystemService(Vibrator.class);
 
-        if (mProximitySensor != null) {
+        mProximityCheckEnabled = mContext.getResources().getBoolean(
+                R.bool.config_enableProximityCheck);
+
+        if (mProximitySensor != null && mProximityCheckEnabled) {
             mSensorManager = context.getSystemService(SensorManager.class);
             mProximitySensor = mSensorManager.getDefaultSensor(Sensor.TYPE_PROXIMITY);
             mProximityWakeLock = mPowerManager.newWakeLock(
@@ -144,7 +149,7 @@ public class KeyHandler implements DeviceKeyHandler {
 
         if (action != 0 && !mEventHandler.hasMessages(GESTURE_REQUEST)) {
             final Message msg = getMessageForAction(action);
-            if (mProximitySensor != null) {
+            if (mProximitySensor != null && mProximityCheckEnabled) {
                 mGestureWakeLock.acquire(2 * 100);
                 mEventHandler.sendMessageDelayed(msg, 100);
                 processEvent(action);

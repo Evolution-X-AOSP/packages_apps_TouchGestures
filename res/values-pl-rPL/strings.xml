@@ -1,64 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--
-    Copyright (c) 2019 Havoc-OS
-
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-        http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
--->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- Gestures: Touchscreen gestures -->
-    <string name="touchscreen_gesture_settings_title">Gesty ekranu dotykowego</string>
-    <string name="touchscreen_gesture_settings_summary">Wykonuj różne gesty na ekranie dotykowym, aby wykonać szybkie akcje</string>
-    <string name="touchscreen_gestures_haptic_feedback_title">Wibracja przy dotyku</string>
-    <string name="touchscreen_gestures_haptic_feedback_summary">Wibruj po wykryciu gestu ekranu dotykowego</string>
-    <string name="touchscreen_gesture_two_finger_down_swipe_title">Przesuń dwoma palcami w dół</string>
-    <string name="touchscreen_gesture_one_finger_up_swipe_title">Przesuń palcem w górę</string>
-    <string name="touchscreen_gesture_one_finger_up_swipe_home_title">Przesuń palcem w górę od przycisku home</string>
-    <string name="touchscreen_gesture_one_finger_down_swipe_title">Przesuń palcem w dół</string>
-    <string name="touchscreen_gesture_one_finger_left_swipe_title">Przesuń palcem w lewo</string>
-    <string name="touchscreen_gesture_one_finger_right_swipe_title">Przesuń palcem w prawo</string>
-    <string name="touchscreen_gesture_up_arrow_title">Narysuj znak \"Λ\"</string>
-    <string name="touchscreen_gesture_down_arrow_title">Narysuj znak \"V\"</string>
-    <string name="touchscreen_gesture_left_arrow_title">Narysuj znak \"&lt;\"</string>
-    <string name="touchscreen_gesture_right_arrow_title">Narysuj znak \"&gt;\"</string>
-    <string name="touchscreen_gesture_letter_c_title">Narysuj literę \"C\"</string>
-    <string name="touchscreen_gesture_letter_e_title">Narysuj literę \"e\"</string>
-    <string name="touchscreen_gesture_letter_o_title">Narysuj literę \"O\"</string>
-    <string name="touchscreen_gesture_letter_m_title">Narysuj literę \"M\"</string>
-    <string name="touchscreen_gesture_letter_s_title">Narysuj literę \"S\"</string>
-    <string name="touchscreen_gesture_letter_v_title">Narysuj literę \"V\"</string>
-    <string name="touchscreen_gesture_letter_w_title">Narysuj literę \"W\"</string>
-    <string name="touchscreen_gesture_letter_z_title">Narysuj literę \"Z\"</string>
-    <string name="touchscreen_gesture_single_tap_title">Pojedyncze dotknięcie</string>
-    <string name="touchscreen_gesture_double_tap_title">Dwukrotne tapnięcie</string>
-    <!-- Gesture: Stylus gestures -->
-    <string name="touchscreen_gesture_swipe_up_stylus_title">Przesuń rysikiem w górę</string>
-    <string name="touchscreen_gesture_swipe_down_stylus_title">Przesuń rysikiem w dół</string>
-    <string name="touchscreen_gesture_swipe_left_stylus_title">Przesuń rysikiem w lewo</string>
-    <string name="touchscreen_gesture_swipe_right_stylus_title">Przesuń rysikiem w prawo</string>
-    <string name="touchscreen_gesture_long_press_stylus_title">Przytrzymaj długo rysikiem</string>
-    <string name="touchscreen_gesture_action_dialog_title">Gest akcji</string>
-    <string name="touchscreen_gesture_action_do_nothing">Nic nie rób</string>
-    <string name="touchscreen_gesture_action_flashlight">Włącz/wyłącz latarkę</string>
-    <string name="touchscreen_gesture_action_camera">Uruchom aparat</string>
-    <string name="touchscreen_gesture_action_browser">Otwórz przeglądarkę</string>
-    <string name="touchscreen_gesture_action_dialer">Otwórz wybieranie numerów</string>
-    <string name="touchscreen_gesture_action_email">Uruchom klienta poczty elektronicznej</string>
-    <string name="touchscreen_gesture_action_messages">Uruchom aplikację wiadomości</string>
-    <string name="touchscreen_gesture_action_play_pause_music">Odtwórz/Zatrzymaj muzykę</string>
-    <string name="touchscreen_gesture_action_previous_track">Odtwórz poprzedni utwór muzyczny</string>
-    <string name="touchscreen_gesture_action_next_track">Odtwórz następny utwór muzyczny</string>
-    <string name="touchscreen_gesture_action_volume_down">Ścisz głośność multimediów</string>
-    <string name="touchscreen_gesture_action_volume_up">Zwiększ głośność multimediów</string>
-    <string name="touchscreen_gesture_action_ambient_display">Pokaż Ambient Display</string>
-    <string name="touchscreen_gesture_action_wake_device">Wybudź urządzenie</string>
+<resources>
+    <string name="average_text">ממוצע</string>
+    <string name="menu_item_high_light_scale_factor">0.5</string>
+    <string name="picker_default_positive_text">אישור</string>
+    <string name="picker_default_nagetive_text">חופש</string>
+    <string name="no_heartrate_data_hint">"לא הצלחתי למצוא את קצב הלב נתונים"</string>
+    <string name="no_altitude_hint">"לא הצלחתי למצוא גובה נתונים"</string>
+    <string name="title_settings">הגדרות</string>
+    <string name="sport_music_settings">מוסיקה</string>
+    <string name="widget_currentstep_title">נתונים</string>
+    <string name="widget_currentstep_activities">"היום פעילות"</string>
+    <string name="widget_currentstep_sleep_hour">h</string>
+    <string name="widget_currentstep_sleep_min">מ\'</string>
+    <string name="widget_currentstep_sleep_title">ישנתי אתמול בלילה</string>
+    <string name="widget_currentstep_sleep_no">לא לישון נתונים</string>
+    <string name="widget_currentstep_activity_no">לא פעילות היום?</string>
+    <string name="locale_title">בחר שפה</string>
+    <string name="app_name">הממ טלוויזיה עוזר</string>
+    <string name="tv_title_controller">מי שלט טלוויזיה.</string>
+    <string name="tv_use_title">עצות לשימוש</string>
+    <string name="tv_title_searching">חיפוש…</string>
+    <string name="tv_title_choices">בחר טלוויזיה.</string>
+    <string name="tv_title_unfound">"לא הצלחתי למצוא את המכשיר"</string>
+    <string name="tv_search_action_tx">לחפש Mi TV</string>
+    <string name="tv_voice_title">נפח</string>
+    <string name="tv_foot_search_again">לחפש שוב</string>
+    <string name="tv_use_content">לוודא הטלוויזיה שלך מופעל ומחובר לאותה רשת Wi-Fi, כמו הטלפון שלך.</string>
+    <string name="tv_current_device">המכשיר הנוכחי</string>
+    <string name="tv_launcher_guide">"הערה: חלק Mi TV ו-Mi Box מודלים לא תומך פקדי קול."</string>
+    <string name="tv_power_title">כיבוי</string>
+    <string name="tv_change_title">מתג התקנים</string>
+    <string name="error_bluetooth_title">Bluetooth כבוי.</string>
+    <string name="error_bluetooth_content">לבדוק אם השעון שלך מחובר לטלפון שלך באמצעות Bluetooth.</string>
+    <string name="error_wifi_title">חיבור Wi-Fi הופסק</string>
+    <string name="error_wifi_content">לוודא שהטלפון שלך מחובר לרשת Wi-Fi.</string>
+    <string name="error_connect_title">שגיאת חיבור</string>
+    <string name="error_connect_content">"לא יכולתי להתחבר ל-Wi-Fi. לחכות דקה או שתיים ולנסות שוב."</string>
+    <string name="error_device_title">"לא יכול למצוא את המכשיר"</string>
+    <string name="error_device_content">ודא כי ההתקן מופעל ומחובר לאותה רשת Wi-Fi, כמו הטלפון שלך.</string>
 </resources>

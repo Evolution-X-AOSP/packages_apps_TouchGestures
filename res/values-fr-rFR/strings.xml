@@ -18,7 +18,7 @@
     <!-- Gestures: Touchscreen gestures -->
     <string name="touchscreen_gesture_settings_title">Gestes tactiles</string>
     <string name="touchscreen_gesture_settings_summary">Effectuer différents gestes sur l\'écran tactile pour des actions rapides</string>
-    <string name="touchscreen_gestures_haptic_feedback_title">Retour tactile</string>
+    <string name="touchscreen_gestures_haptic_feedback_title">Retour haptique</string>
     <string name="touchscreen_gestures_haptic_feedback_summary">Vibrer quand un geste tactile est détecté</string>
     <string name="touchscreen_gesture_two_finger_down_swipe_title">Glisser vers le bas avec deux doigts</string>
     <string name="touchscreen_gesture_one_finger_up_swipe_title">Glissez vers le haut avec un doigt</string>
@@ -59,6 +59,6 @@
     <string name="touchscreen_gesture_action_next_track">Jouer la piste musicale suivante</string>
     <string name="touchscreen_gesture_action_volume_down">Diminuer le volume des médias</string>
     <string name="touchscreen_gesture_action_volume_up">Augmenter le volume des médias</string>
-    <string name="touchscreen_gesture_action_ambient_display">Affichage ambiant</string>
+    <string name="touchscreen_gesture_action_ambient_display">Montrer l\'affichage ambiant</string>
     <string name="touchscreen_gesture_action_wake_device">Réveiller l\'appareil</string>
 </resources>

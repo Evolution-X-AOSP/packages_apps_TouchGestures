@@ -28,17 +28,17 @@
     <string name="touchscreen_gesture_one_finger_right_swipe_title">한 손가락으로 오른쪽으로 밀기</string>
     <string name="touchscreen_gesture_up_arrow_title">\"Λ\" 그리기</string>
     <string name="touchscreen_gesture_down_arrow_title">\"V\" 그리기</string>
-    <string name="touchscreen_gesture_left_arrow_title">Draw a \"&lt;\"</string>
+    <string name="touchscreen_gesture_left_arrow_title">\"&lt;\" 그리기</string>
     <string name="touchscreen_gesture_right_arrow_title">\"&gt;\" 그리기</string>
     <string name="touchscreen_gesture_letter_c_title">문자 \"C\" 그리기</string>
     <string name="touchscreen_gesture_letter_e_title">문자 \"e\" 그리기</string>
     <string name="touchscreen_gesture_letter_o_title">문자 \"O\" 그리기</string>
-    <string name="touchscreen_gesture_letter_m_title">문자 \"M\"을 그립니다.</string>
-    <string name="touchscreen_gesture_letter_s_title">문자 \"S\"를 그립니다</string>
-    <string name="touchscreen_gesture_letter_v_title">문자 \"V\"를 그립니다</string>
-    <string name="touchscreen_gesture_letter_w_title">문자 \"W\"를 그립니다</string>
-    <string name="touchscreen_gesture_letter_z_title">문자 \"Z\"를 그립니다</string>
-    <string name="touchscreen_gesture_single_tap_title">한 번 누르기</string>
+    <string name="touchscreen_gesture_letter_m_title">문자 \"M\" 그리기</string>
+    <string name="touchscreen_gesture_letter_s_title">문자 \"S\" 그리기</string>
+    <string name="touchscreen_gesture_letter_v_title">문자 \"V\" 그리기</string>
+    <string name="touchscreen_gesture_letter_w_title">문자 \"W\" 그리기</string>
+    <string name="touchscreen_gesture_letter_z_title">문자 \"Z\" 그리기</string>
+    <string name="touchscreen_gesture_single_tap_title">한번 누르기</string>
     <string name="touchscreen_gesture_double_tap_title">두번 누르기</string>
     <!-- Gesture: Stylus gestures -->
     <string name="touchscreen_gesture_swipe_up_stylus_title">스타일러스로 쓸어 올리기</string>
@@ -47,7 +47,7 @@
     <string name="touchscreen_gesture_swipe_right_stylus_title">스타일러스로 오른쪽으로 밀기</string>
     <string name="touchscreen_gesture_long_press_stylus_title">스타일러스로 길게 누르기</string>
     <string name="touchscreen_gesture_action_dialog_title">제스처 동작</string>
-    <string name="touchscreen_gesture_action_do_nothing">아무것도 하지않음</string>
+    <string name="touchscreen_gesture_action_do_nothing">사용 안함</string>
     <string name="touchscreen_gesture_action_flashlight">플래시 켜기/끄기</string>
     <string name="touchscreen_gesture_action_camera">카메라 열기</string>
     <string name="touchscreen_gesture_action_browser">브라우저 실행</string>

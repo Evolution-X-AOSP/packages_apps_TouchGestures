@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (c) 2019 Havoc-OS
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Gestures: Touchscreen gestures -->
+    <string name="touchscreen_gesture_settings_title">جوڵانەکانی دەسلێدانی ڕوونما</string>
+    <string name="touchscreen_gesture_settings_summary">فرمانی ئاماژەپێکردنی جیاواز بکە بۆ کردارە خێراکان</string>
+    <string name="touchscreen_gestures_haptic_feedback_title">وڵامدانەوەی لەرینەوە</string>
+    <string name="touchscreen_gestures_haptic_feedback_summary">لەرزین کاتێ جوڵەیەکی دەستلێدان دەربکەوێت</string>
+    <string name="touchscreen_gesture_two_finger_down_swipe_title">ڕاکێشان بۆ خوارەوە بە دوو پەنجە</string>
+    <string name="touchscreen_gesture_one_finger_up_swipe_title">ڕاکێشان بۆ سەرەوە بە یەک پەنجە</string>
+    <string name="touchscreen_gesture_one_finger_up_swipe_home_title">ڕاکێشان بۆ سەرەوە بە دوگمەی سەرەکی</string>
+    <string name="touchscreen_gesture_one_finger_down_swipe_title">ڕاکێشان بۆ خوارەوە بە یەک پەنجە</string>
+    <string name="touchscreen_gesture_one_finger_left_swipe_title">ڕاکێشان بۆ چەپ بە یەک پەنجە</string>
+    <string name="touchscreen_gesture_one_finger_right_swipe_title">ڕاکێشان بۆ ڕاست بە یەک پەنجە</string>
+    <string name="touchscreen_gesture_up_arrow_title">کێشانی \"Λ\"</string>
+    <string name="touchscreen_gesture_down_arrow_title">کێشانی \"V\"</string>
+    <string name="touchscreen_gesture_left_arrow_title">کێشانی \"&lt;\"</string>
+    <string name="touchscreen_gesture_right_arrow_title">کێشانی \"&gt;\"</string>
+    <string name="touchscreen_gesture_letter_c_title">کێشانی پیتی \"C\"</string>
+    <string name="touchscreen_gesture_letter_e_title">کێشانی پیتی \"e\"</string>
+    <string name="touchscreen_gesture_letter_o_title">کێشانی پیتی \"O\"</string>
+    <string name="touchscreen_gesture_letter_m_title">کێشانی پیتی \"M\"</string>
+    <string name="touchscreen_gesture_letter_s_title">کێشانی پیتی \"S\"</string>
+    <string name="touchscreen_gesture_letter_v_title">کێشانی پیتی \"V\"</string>
+    <string name="touchscreen_gesture_letter_w_title">کێشانی پیتی \"W\"</string>
+    <string name="touchscreen_gesture_letter_z_title">کێشانی پیتی \"Z\"</string>
+    <string name="touchscreen_gesture_single_tap_title">تاکەگرتە</string>
+    <string name="touchscreen_gesture_double_tap_title">دووانەگرتە</string>
+    <!-- Gesture: Stylus gestures -->
+    <string name="touchscreen_gesture_swipe_up_stylus_title">قەڵەمەکە ڕاکێشە بۆ سەرەوە</string>
+    <string name="touchscreen_gesture_swipe_down_stylus_title">قەڵەمەکە ڕاکێشە بۆ خوارەوە</string>
+    <string name="touchscreen_gesture_swipe_left_stylus_title">قەڵەمەکە ڕاکێشە بۆلای چەپ</string>
+    <string name="touchscreen_gesture_swipe_right_stylus_title">قەڵەمەکە ڕاکێشە بۆلای ڕاست</string>
+    <string name="touchscreen_gesture_long_press_stylus_title">قەڵەمەکە بۆ ماوەیەک ڕاگرە</string>
+    <string name="touchscreen_gesture_action_dialog_title">کرداری جوڵانەوە</string>
+    <string name="touchscreen_gesture_action_do_nothing">هیچ نه‌کرێت</string>
+    <string name="touchscreen_gesture_action_flashlight">هەڵکردنی فلاش لایت</string>
+    <string name="touchscreen_gesture_action_camera">کردنەوەی کامێرا</string>
+    <string name="touchscreen_gesture_action_browser">کردنەوەی وێبگەڕ</string>
+    <string name="touchscreen_gesture_action_dialer">کردنەوەی پەیوەندیکردن</string>
+    <string name="touchscreen_gesture_action_email">بینینی پۆستی ئەلکترۆنیت</string>
+    <string name="touchscreen_gesture_action_messages">بینینی نامه‌کان</string>
+    <string name="touchscreen_gesture_action_play_pause_music">لێدان/راگرتنی میوزیک</string>
+    <string name="touchscreen_gesture_action_previous_track">لێدانی تراکی میوزیکی پێشوو</string>
+    <string name="touchscreen_gesture_action_next_track">لێدانی تراکی میوزیکی دواتر</string>
+    <string name="touchscreen_gesture_action_volume_down">نزمکردنەوەی دەنگی میدیا</string>
+    <string name="touchscreen_gesture_action_volume_up">بەرزکردنەوەی دەنگی میدیا</string>
+    <string name="touchscreen_gesture_action_ambient_display">پیشاندانی هەمیشە لەسەر ڕوونما</string>
+    <string name="touchscreen_gesture_action_wake_device">هەڵبوونی ئامێر</string>
+</resources>

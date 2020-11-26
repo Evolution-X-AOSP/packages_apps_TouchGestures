@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (c) 2019 Havoc-OS
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Gestures: Touchscreen gestures -->
+    <string name="touchscreen_gesture_settings_title">ᱚᱛᱟᱥᱠᱨᱤᱱ ᱜᱮᱥᱪᱚᱨᱠᱚ</string>
+    <string name="touchscreen_gesture_settings_summary">ᱞᱚᱜᱚᱱ ᱠᱟᱹᱢᱤ ᱠᱚ ᱞᱟᱫᱜᱫᱽ ᱛᱮ ᱟᱭᱢᱟ ᱴᱚᱫᱥᱠᱨᱤ</string>
+    <string name="touchscreen_gestures_haptic_feedback_title">ᱦᱟᱯᱴᱤᱠ ᱯᱷᱤᱰᱵᱮᱠ</string>
+    <string name="touchscreen_gestures_haptic_feedback_summary">ᱴᱚᱪᱥᱠᱨᱤᱱ ᱜᱮᱥᱛᱚᱨ ᱠᱚ ᱧᱟᱢ ᱵᱤᱲᱟᱹᱣ ᱞᱮᱠᱷᱟᱱ ᱵᱷᱭᱣᱨᱮᱴᱚᱜᱼᱟ</string>
+    <string name="touchscreen_gesture_two_finger_down_swipe_title">ᱵᱟᱨᱭᱟ ᱠᱟᱹᱴᱩᱵᱽ ᱛᱮ ᱞᱟᱛᱟᱨ ᱥᱮᱱ ᱴᱷᱮᱞᱟ ᱢᱮ</string>
+    <string name="touchscreen_gesture_one_finger_up_swipe_title">ᱢᱤᱫᱽᱴᱟᱹᱝ ᱠᱟᱹᱴᱩᱵᱽ ᱛᱮ ᱛᱟᱛᱟᱨ ᱥᱮᱱ ᱴᱷᱮᱞᱟᱣ ᱢᱮ</string>
+    <string name="touchscreen_gesture_one_finger_up_swipe_home_title">ᱟᱲᱟᱜᱽ ᱵᱩᱛᱟᱹᱢ ᱠᱷᱚᱱ ᱪᱮᱛᱟᱱ ᱥᱮᱱ ᱴᱷᱮᱞᱟᱣ ᱢᱮ</string>
+    <string name="touchscreen_gesture_one_finger_down_swipe_title">ᱢᱤᱫᱴᱟᱹᱝ ᱠᱟᱹᱴᱩᱵᱽ ᱛᱮ ᱞᱟᱛᱟᱨ ᱥᱮᱱ ᱴᱷᱮᱞᱟᱣ ᱢᱮ</string>
+    <string name="touchscreen_gesture_one_finger_left_swipe_title">ᱢᱤᱫᱴᱟᱹᱝ ᱠᱟᱹᱴᱤᱵᱽ ᱛᱮ ᱞᱮᱸᱜᱟ ᱛᱤ ᱯᱟᱦᱴᱟ ᱥᱮᱱ ᱴᱷᱮᱞᱟᱣ ᱢᱮ</string>
+    <string name="touchscreen_gesture_one_finger_right_swipe_title">ᱢᱤᱫᱴᱟᱹᱝ ᱠᱟᱹᱴᱩᱵᱽ ᱛᱮ ᱡᱚᱡᱚᱢ ᱛᱤ ᱥᱮᱫᱽ ᱴᱷᱮᱞᱟᱣ ᱢᱮ</string>
+    <string name="touchscreen_gesture_up_arrow_title">\"Λ\" ᱛᱮᱭᱟᱨ ᱢᱮ</string>
+    <string name="touchscreen_gesture_down_arrow_title">\"V\" ᱛᱮᱭᱟᱨ ᱢᱮ</string>
+    <string name="touchscreen_gesture_left_arrow_title">\"&lt;\" ᱛᱮᱭᱟᱨ ᱢᱮ</string>
+    <string name="touchscreen_gesture_right_arrow_title">\"&gt;\" ᱛᱮᱭᱟᱨ ᱢᱮ</string>
+    <string name="touchscreen_gesture_letter_c_title">\"C\" ᱚᱠᱚᱨ ᱛᱮᱭᱟᱨ ᱢᱮ</string>
+    <string name="touchscreen_gesture_letter_e_title">\"e\" ᱚᱠᱷᱚᱨ ᱛᱮᱭᱟᱨ ᱢᱮ</string>
+    <string name="touchscreen_gesture_letter_o_title">\"O\" ᱚᱠᱷᱚᱨ ᱛᱮᱭᱟᱨ ᱢᱮ</string>
+    <string name="touchscreen_gesture_letter_m_title">\"M\" ᱚᱠᱷᱚᱨ ᱛᱮᱭᱟᱨ ᱢᱮ</string>
+    <string name="touchscreen_gesture_letter_s_title">\"S\" ᱚᱠᱷᱚᱨ ᱛᱮᱭᱟᱨ ᱢᱮ</string>
+    <string name="touchscreen_gesture_letter_v_title">\"V\" ᱚᱠᱷᱚᱨ ᱛᱮᱭᱟᱨ ᱢᱮ</string>
+    <string name="touchscreen_gesture_letter_w_title">\"W\" ᱚᱠᱷᱚᱨ ᱛᱮᱭᱟᱨ ᱢᱮ</string>
+    <string name="touchscreen_gesture_letter_z_title">\"Z\" ᱚᱠᱷᱚᱨ ᱛᱮᱭᱟᱨ ᱢᱮ</string>
+    <string name="touchscreen_gesture_single_tap_title">ᱢᱤᱫᱴᱟᱹᱝ ᱚᱛᱟ ᱛᱮ</string>
+    <string name="touchscreen_gesture_double_tap_title">ᱰᱚᱵᱟᱹᱞ ᱴᱮᱯ</string>
+    <!-- Gesture: Stylus gestures -->
+    <string name="touchscreen_gesture_swipe_up_stylus_title">ᱥᱴᱟᱭᱞᱟᱹᱥ ᱞᱟᱹᱜᱤᱫᱽ ᱪᱮᱛᱟᱱ ᱥᱮᱱ ᱴᱷᱮᱟᱣ ᱢᱮ</string>
+    <string name="touchscreen_gesture_swipe_down_stylus_title">ᱥᱴᱟᱭᱞᱟᱹᱥ ᱞᱟᱹᱜᱤᱫᱽ ᱞᱟᱛᱟᱨ ᱥᱮᱱ ᱴᱷᱮᱟᱣ ᱢᱮ</string>
+    <string name="touchscreen_gesture_swipe_left_stylus_title">ᱥᱴᱟᱭᱞᱟᱹᱥ ᱞᱟᱹᱜᱤᱫᱽ ᱞᱮᱸᱜᱟ ᱛᱮ ᱯᱟᱦᱴᱟ ᱥᱮᱱ ᱴᱷᱮᱟᱣ ᱢᱮ</string>
+    <string name="touchscreen_gesture_swipe_right_stylus_title">ᱥᱴᱟᱭᱞᱟᱹᱥ ᱞᱟᱹᱜᱤᱫᱽ ᱡᱚᱡᱚᱢ ᱛᱤ ᱯᱟᱦᱴᱟ ᱥᱮᱱ ᱴᱷᱮᱟᱣ ᱢᱮ</string>
+    <string name="touchscreen_gesture_long_press_stylus_title">ᱥᱴᱟᱭᱞᱚᱥ ᱛᱮ ᱡᱩᱨ ᱚᱛᱟᱭ ᱢᱮ</string>
+    <string name="touchscreen_gesture_action_dialog_title">ᱜᱮᱥᱪᱚᱨ ᱠᱟᱹᱢᱤ</string>
+    <string name="touchscreen_gesture_action_do_nothing">ᱪᱮᱫᱽ ᱦᱚᱸ ᱟᱞᱚ ᱪᱤᱠᱟᱹᱭᱟ</string>
+    <string name="touchscreen_gesture_action_flashlight">ᱴᱚᱻᱜᱟᱹᱞ ᱯᱷᱞᱟᱥᱞᱟᱭᱤᱴ</string>
+    <string name="touchscreen_gesture_action_camera">ᱠᱮᱢᱨᱟ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ</string>
+    <string name="touchscreen_gesture_action_browser">ᱵᱨᱟᱩᱡᱟᱹᱨ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ</string>
+    <string name="touchscreen_gesture_action_dialer">ᱰᱟᱭᱞᱟᱹᱨ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ</string>
+    <string name="touchscreen_gesture_action_email">ᱟᱢᱟᱜᱽ ᱤᱼᱢᱮᱞ ᱠᱚ ᱧᱮᱞ ᱛᱟᱢ</string>
+    <string name="touchscreen_gesture_action_messages">ᱟᱢᱟᱜ ᱠᱷᱚᱵᱚᱨ ᱠᱚ ᱫᱮᱠᱷᱟᱣ ᱢᱮ</string>
+    <string name="touchscreen_gesture_action_play_pause_music">ᱯᱞᱮ/ᱥᱮᱨᱮᱧ ᱯᱚᱡᱽ</string>
+    <string name="touchscreen_gesture_action_previous_track">ᱢᱟᱲᱟᱝ ᱥᱮᱨᱮᱧ ᱴᱨᱟᱠ ᱯᱞᱮ ᱢᱮ</string>
+    <string name="touchscreen_gesture_action_next_track">ᱤᱱᱟᱹ ᱛᱟᱭᱚᱢ ᱥᱮᱨᱮᱧ ᱴᱨᱟᱠ ᱯᱞᱮ ᱢᱮ</string>
+    <string name="touchscreen_gesture_action_volume_down">ᱢᱮᱰᱤᱭᱟ ᱣᱚᱞᱭᱩᱢ ᱠᱚᱢ ᱢᱮ</string>
+    <string name="touchscreen_gesture_action_volume_up">ᱢᱮᱰᱤᱭᱟ ᱣᱚᱞᱭᱩᱢ ᱵᱚᱰᱷᱟᱣ ᱢᱮ</string>
+    <string name="touchscreen_gesture_action_ambient_display">ᱮᱢᱵᱤᱭᱮᱸᱴ ᱰᱤᱥᱯᱞᱮ ᱫᱮᱠᱷᱟᱣ ᱢᱮ</string>
+    <string name="touchscreen_gesture_action_wake_device">ᱥᱟᱫᱷᱚᱱ ᱵᱮᱨᱮᱫᱽ ᱮ ᱢᱮ</string>
+</resources>
